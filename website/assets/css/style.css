@@ -1,0 +1,13 @@
+header{
+    float: left;
+    /* display: inline-block; */
+}
+#logo{
+    height: 50px;
+    width: auto;
+    margin: 10px auto;
+    /* float: right; */
+}
+#name{
+    font-size: large;
+}
